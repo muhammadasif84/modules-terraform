@@ -11,3 +11,4 @@ resource "aws_instance" "instance-1" {
   key_name = aws_key_pair.key-main.key_name
  
 }
+
